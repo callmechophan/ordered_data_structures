@@ -1,0 +1,2 @@
+std::vector
+    - implements an array that dynamically grows in size automatically
