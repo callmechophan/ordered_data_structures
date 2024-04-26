@@ -1,0 +1,10 @@
+array
+    - an array stores data in "block of sequential memory"
+
+array limitation #1
+    - all data in an array must be of the same type
+
+array limitation #2
+    - arrays have fixed "capacity"
+    - the "capacity" is the maximum number of elements that can be stored
+    - the "size" is the current number of element stored in the array
